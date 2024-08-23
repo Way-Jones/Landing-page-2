@@ -1,0 +1,196 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px 25px;
+}
+h1{
+    color: skyblue;
+}
+h1 span{
+    color: black;
+}
+li a {
+    color: black;
+    
+}
+.Extentions{
+    width: 500px;
+}
+.Extentions ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 1px 1px;
+}
+li{
+    display: inline-block;
+    
+}
+.head{
+    background-image: url(images/bck.png);
+    background-size: cover;
+    height: 600px;
+}
+.header{
+    text-align: center ;
+    width: 700px;
+    margin: auto;
+    padding: 60px;
+    height: 900px;
+}
+
+.header h2{
+    color: white;
+    font-size: 50px;
+}
+
+ Button{
+    height: 40px;
+    border-radius: 5px;
+    
+    border: 1px solid skyblue;
+    color: skyblue;
+    margin: auto;
+}
+.ph2{
+    display: flex;
+    margin: 40px;
+}
+.ph2 div{
+    width: 500px;
+}
+.ph2 div p{
+    font-size: 30px;
+    color: gray;
+}
+.images{
+    height: 500px;
+}
+h3{
+    font-size: 60px;
+    
+}
+.ph3{
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent;
+
+}
+.s3{
+    border-radius: 10px;
+    width: 500px;
+    margin: 10px;
+    padding: 25px;
+    background-color: skyblue;
+    
+}
+.s2{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    width: 200px;
+    margin: auto;
+    align-items: center;
+}
+.a1{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    height: 80px;
+    align-items: center;
+}
+.h3{
+    height: 350px;
+    background-color: blue;
+}
+.img-1{
+    position: relative;
+    top: 0px;
+    left: 10px;
+}
+.img-2{
+    position: absolute;
+    top: 800px;
+    right: 10px;
+}
+h4{
+    margin: auto;
+    font-size: 50px;
+    text-align: center;
+    color: gray;
+}
+.ph4{
+    display: flex;
+    justify-content: space-between;
+}
+.buttom{
+    background-color: blue;
+}
+.buttom div{
+    background: transparent;
+}
+.imag{
+    margin: auto;
+    height: 805px;
+}
+.img-3{
+    width: 600px;
+}
+.main-right{
+    width: 600px;
+}
+h6{
+    font-size: 25px;
+    color: aqua;
+    
+}
+h5{
+    font-size: 50px;
+    display: block;
+    line-height: 1; 
+}
+.low{
+    width: 500px;
+    margin: auto;
+}
+.flow{
+    display: flex;
+    justify-content: space-between;
+}
+.p1{
+    font-size: 20px;
+}
+.left{
+    width: 300px;
+
+}
+.p2{
+    font-size: 20px;
+}
+.right{
+    width: 600px;
+}
+.last{
+    display: flex;
+    justify-content: space-between;
+    background: transparent;
+    width: 90%;
+    margin: auto;
+}
+.more{
+    display: flex;
+    background: transparent;
+}
+.contact{
+    width: 200px;
+}
+.final{
+    border-top: 1px solid white;
+    display: flex;
+    justify-content: space-between;
+    background: transparent;
+    width: 90%;
+    margin: auto;
+}
+.final p {
+    color: gray;
+}
